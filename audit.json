@@ -1,0 +1,38 @@
+{
+  "package_version": "1.0.0",
+  "prepared_date": "2026-11-18",
+  "upstream_repository": "https://github.com/hanshanley/narrative-influence",
+  "upstream_commit": "f82076dc0c94498dfa88f8d387412b6b424a1c66",
+  "upstream_git_blob_sha1": "233205a73674a0b9470eb6131f0d300f4312876c",
+  "upstream_sha256": "deb55e8f2f2302ce32371d85eaaa0511d0646d577aa722f726fe466fc066fe71",
+  "processed_csv_sha256": "c90a49e280eb6fc3a4aefded415575f8384d4b69583461c939060b0105164844",
+  "row_count": 2147,
+  "missing_required_source_fields": 0,
+  "unique_normalized_summaries": 2146,
+  "duplicate_summary_groups": 1,
+  "exact_ties_for_highest_score": 14,
+  "score_margin_below_0_01_including_ties": 258,
+  "label_counts_including_ambiguous": {
+    "Russia": 808,
+    "Ukraine": 829,
+    "China": 411,
+    "US": 85,
+    "ambiguous": 14
+  },
+  "unique_maximum_rows": 2133,
+  "shares_percent_among_unique_maximum_rows": {
+    "China": 19.2686,
+    "US": 3.985,
+    "Russia": 37.8809,
+    "Ukraine": 38.8654
+  },
+  "published_table_1_analysis_2_percent": {
+    "China": 9.7,
+    "US": 18.3,
+    "Russia": 37.1,
+    "Ukraine": 35.0
+  },
+  "discrepancy_status": "Unresolved. Public-release selection and score normalization may matter; no cause established.",
+  "model_training_performed": false,
+  "split_policy": "One full split only; no train/test assignment has been made."
+}

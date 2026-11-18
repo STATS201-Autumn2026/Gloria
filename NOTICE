@@ -1,0 +1,16 @@
+Across the Firewall - Weibo Narrative Summaries (Course Edition)
+
+Original research and replication materials:
+Hans W. A. Hanley, Yingdan Lu, and Jennifer Pan.
+Copyright 2024 The Board of Trustees of The Leland Stanford Junior University.
+Upstream repository: https://github.com/hanshanley/narrative-influence
+Pinned revision: f82076dc0c94498dfa88f8d387412b6b424a1c66
+Paper DOI: https://doi.org/10.1073/pnas.2420607122
+
+This independently prepared course edition adds CSV formatting, normalized
+headers, stable row IDs, score-derived association labels, explicit tie
+handling, duplicate checks, documentation, and reproducible audit code.
+These modifications were prepared with ChatGPT assistance on 2026-11-18.
+The original summary wording and all original data rows are retained.
+This edition is not an official release by the original authors and does
+not imply their endorsement. See LICENSE for Apache License 2.0 terms.
